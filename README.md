@@ -1,4 +1,4 @@
-Tu compile and run this please follow the commands bellow
+To compile and run this please follow the commands bellow
 
 dotnet run
 
